@@ -1,0 +1,1 @@
+const nvrnig=343 ;
